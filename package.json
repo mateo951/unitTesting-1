@@ -1,0 +1,22 @@
+{
+  "name": "unittesting-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateo951/unitTesting-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateo951/unitTesting-1/issues"
+  },
+  "homepage": "https://github.com/mateo951/unitTesting-1#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
